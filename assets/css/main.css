@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    overflow: hidden;
+}
+h1 {
+    color: aliceblue;
+    font-size: 4rem;
+}
+h2.no {
+    font-size: 20rem;
+    color: azure;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    text-align: center;
+}
+
