@@ -32,6 +32,6 @@ Docker must be installed or use https://labs.play-with-docker.com/
   
   - [ ] --workdir
 
-- [ ] Run container to compress an existing PDF
+- [ ] Run figlet 
 
 - [ ] Run Ghost CMS
