@@ -66,3 +66,5 @@ Docker must be installed or use https://labs.play-with-docker.com/
   ```
 
 - [ ] Run Ghost CMS
+
+- [ ] Serve index.html with apache or nginx

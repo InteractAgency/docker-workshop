@@ -5,3 +5,5 @@ docker pull docker/doodle:halloween
 docker pull docker/doodle:cheers
 docker pull mbentley/figlet
 docker pull ghost
+docker pull nginx:alpine
+docker pull httpd:alpine
