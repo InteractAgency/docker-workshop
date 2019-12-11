@@ -2,13 +2,21 @@
 
 Docker must be installed or use https://labs.play-with-docker.com/
 
-
-
 ## 1. What's docker
 
 - [ ] Run the hello-world docker
 
-- [ ] Run Alpine and cat /etc/issue
+- [ ] Run Alpine
+  
+  - [ ] cat /etc/issue
+  
+  - [ ] show docker process
+  
+  - [ ] stop alpine container
+  
+  - [ ] show all containers
+  
+  - [ ] remove alpine's container
 
 - [ ] Team cheers vs Team halloween (docker/doodle)
 
@@ -27,5 +35,3 @@ Docker must be installed or use https://labs.play-with-docker.com/
 - [ ] Run container to compress an existing PDF
 
 - [ ] Run Ghost CMS
-
-
