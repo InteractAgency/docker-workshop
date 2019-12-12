@@ -143,5 +143,7 @@ docker run --rm --interactive --tty --volume $PWD:/work --workdir /work mbentley
 
 ## 2. What's docker-compose
 
-- [ ] Run Wordpress CMS with docker-compose
+- [ ] Run index with docker-compose
+
+- [ ] Run Wordpress CMS
 
